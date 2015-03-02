@@ -7,7 +7,7 @@ A three-day project in Unity2D. Scripts are in C#. <br> <br>
 <p><a href="https://sites.google.com/site/caseyligames/Game.zip?attredirects=0"> 
 <img src="https://caseli.files.wordpress.com/2014/10/pc-button.png?w=250">
 </a>
-<a href="https://sites.google.com/site/caseyligames/FlappyMac.app.zip?attredirects=0&d=1"> 
+<a href="https://sites.google.com/site/caseyligames/FlappyMac.app.zip?attredirects=0"> 
 
 <img src="https://caseli.files.wordpress.com/2014/10/mac-button.png?w=250">
 </a> </p> 

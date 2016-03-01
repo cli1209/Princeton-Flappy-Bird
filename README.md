@@ -4,10 +4,10 @@ A three-day project in Unity2D. Scripts are in C#. <br> <br>
 <img src="https://caseli.files.wordpress.com/2014/10/gameover.gif?w=400&h=200">
 
 # Download Game
-<p><a href="https://sites.google.com/site/caseyligames/Game.zip?attredirects=0"> 
+<p><a href="https://sites.google.com/site/flappyprinceton/pc-download"> 
 <img src="https://caseli.files.wordpress.com/2014/10/pc-button.png?w=250">
 </a>
-<a href="https://sites.google.com/site/caseyligames/FlappyMac.app.zip?attredirects=0"> 
+<a href="https://sites.google.com/site/flappyprinceton/mac-download"> 
 
 <img src="https://caseli.files.wordpress.com/2014/10/mac-button.png?w=250">
 </a> </p> 
